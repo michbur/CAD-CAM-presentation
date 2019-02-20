@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Przewidywanie w\IeC {\l }a\IeC {\'s}ciwo\IeC {\'s}ci sekwencji biologicznych}{3}{0}{1}
+\beamer@sectionintoc {2}{n-gramy i uproszczone alfabety}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Przewidywanie amyloid\IeC {\'o}w}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Przewidywanie peptyd\IeC {\'o}w sygna\IeC {\l }owych}{24}{0}{2}
+\beamer@sectionintoc {3}{Analiza danych z eksperyment\IeC {\'o}w PCR}{31}{0}{3}
